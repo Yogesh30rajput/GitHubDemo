@@ -1,0 +1,6 @@
+create
+update
+view
+delete
+single view
+multiple
